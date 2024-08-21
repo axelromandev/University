@@ -1,16 +1,36 @@
-# NetBeans specific #
+# NetBeans specific folders
 nbproject/private/
-build/
+nbproject/var/
 nbbuild/
+build/
 dist/
-nbdis
-test/
-nbactions.xml
-nb-configuration.xml
 
-# Class Files #
+# Ignore all JAR files except those in the lib/ directory
+*.jar
+!lib/**/*.jar
+
+# Compiled source
 *.class
 
-# Package Files #
+# Package Files
 *.war
 *.ear
+
+# NetBeans local history folder
+nbproject/private/
+.nb-gradle/
+
+# NetBeans caches and logs
+nbproject/private/
+build/
+dist/
+.mvn/
+target/
+build/
+
+# NetBeans specific files
+*.orig
+*.rej
+*.swp
+*.swo
+*.bak​⬤
