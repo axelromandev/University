@@ -1,0 +1,25 @@
+body {
+	background: #30593f;
+	color:#fff;
+}
+/* index */
+.main {
+	background: #3a6b4c;
+}
+
+aside {
+	background: #2a4c36;
+}
+
+/* Docentes */
+.list {
+	background: #fff;
+	color: #000000;
+}
+
+/* Pide de pagina */
+footer .copyright {
+	text-align: center;
+	color:#848484;
+
+}
