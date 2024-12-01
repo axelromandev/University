@@ -11,6 +11,7 @@ Computer Systems Engineering
 | Analizador Léxico     | Java       | NetBeans |
 | AnimateFlipbook       | Javascript | Vscode   |
 | Cerradura RFID        | C++        | Arduino  |
+| ClinicaDualApp        | Dart       | Vscode   |
 | CRUD-Zoologico-JAVA   | Java       | NetBeans |
 | Horoscopos-Java       | Java       | NetBeans |
 | PACMAN 2.0            | Java       | NetBeans |
